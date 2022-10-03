@@ -2,9 +2,9 @@
 
 <div align="center">
     <a href="https://github.com/hiagogrades">
-        <img height="180em" 
+        <img height="150em" 
              src="https://github-readme-stats.vercel.app/api?username=hiagogrades&show_icons=true&theme=github_dark">
-        <img height="180em" 
+        <img height="150em" 
              src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiagogrades&langs_count=8&layout=compact&theme=github_dark"/>
 </div>
 
