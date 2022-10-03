@@ -18,7 +18,7 @@
 <div style="display: inline_block">
     <br>
     <a href="https://www.linkedin.com/in/hiagogrades/" target="_blank">
-        <img align="Center" alt="Hiago-LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        <img align="Center" alt="Hiago-LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     <a/>
         <img />
         <img />
