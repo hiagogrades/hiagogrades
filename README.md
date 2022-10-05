@@ -15,7 +15,7 @@
     <a href="https://www.instagram.com/hiagogrades/" target="_blank"><img align="Center" alt="Hiago-Ig" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.facebook.com/hiago.grades.3" target="_blank"><img align="Center" alt="Hiago-Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
     <a href="https://www.twitch.tv/hiagogrades" target="_blank"><img align="Center" alt="Hiago-Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"><a/>
-    <a href="https://discord.com/Hiago#4780" target="_blank"><img align="Center" alt="Hiago" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"><a/>
+    <a href="https://discord.gg/Hiago#4780" target="_blank"><img align="Center" alt="Hiago" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"><a/>
     
         
         
